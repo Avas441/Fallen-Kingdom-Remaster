@@ -1,4 +1,4 @@
-# Hallofv
+#
 text_break = ("-----------------------") # Line break var for UI readability
 class player: # Creating Player class for game
     name = ""
